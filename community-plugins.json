@@ -19246,7 +19246,7 @@
     "id": "bulk-renamer",
     "name": "Bulk Renamer & Organizer",
     "author": "pablon",
-    "description": "Smart filename normalization with preview, collision detection, and one-click undo",
+    "description": "Smart filename normalization with preview, collision detection, and one-click undo.",
     "repo": "pablon/obsidian-bulk-renamer"
   }
 ]
